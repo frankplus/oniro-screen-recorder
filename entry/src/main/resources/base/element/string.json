@@ -1,0 +1,17 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Screen recorder"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Record the screen to MP4"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Screen Recorder"
+    }
+  ,{"name": "mic_reason", "value": "Record your voice along with the screen"}
+  ]
+}
