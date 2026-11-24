@@ -1,7 +1,7 @@
 {
   "app": {
     "bundleName": "org.oniroproject.screenrecorder",
-    "vendor": "example",
+    "vendor": "Francesco Pham",
     "versionCode": 1000000,
     "versionName": "1.0.0",
     "icon": "$media:layered_image",
